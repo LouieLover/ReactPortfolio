@@ -83,11 +83,7 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img
-                src="client/Screen Shot 2020-11-06 at 10.37.08 AM.png"
-                class="card-img-top"
-                alt="client/Screen Shot 2020-11-06 at 10.37.08 AM.png"
-              ></img>
+              <img src="/5.png" class="card-img-top" alt="/5.png"></img>
               <h5 className="card-title">What I'm Craving</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -105,11 +101,7 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img
-                src="client/Screen Shot 2020-11-06 at 10.36.28 AM.png"
-                class="card-img-top"
-                alt="client/Screen Shot 2020-11-06 at 10.36.28 AM.png"
-              ></img>
+              <img src="/4.png" class="card-img-top" alt="/4.png"></img>
               <h5 className="card-title">Eat Some Burgers</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -127,11 +119,7 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img
-                src="client/Screen Shot 2020-11-06 at 10.34.45 AM.png"
-                class="card-img-top"
-                alt="client/Screen Shot 2020-11-06 at 10.34.45 AM.png"
-              ></img>
+              <img src="/3.png" class="card-img-top" alt="/3.png"></img>
               <h5 className="card-title">Fitness Tracker</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -149,11 +137,7 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img
-                src="client/Screen Shot 2020-10-26 at 7.15.37 PM.png"
-                class="card-img-top"
-                alt="client/Screen Shot 2020-10-26 at 7.15.37 PM.png"
-              ></img>
+              <img src="/2.png" class="card-img-top" alt="/2.png"></img>
               <h5 className="card-title">Budget Tracker</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -171,11 +155,7 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img
-                src="client/Screen Shot 2020-11-06 at 10.59.54 AM.png"
-                class="card-img-top"
-                alt="client/Screen Shot 2020-11-06 at 10.59.54 AM.png"
-              ></img>
+              <img src="/1.png" class="card-img-top" alt="/1.png"></img>
               <h5 className="card-title">Note Taker</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
