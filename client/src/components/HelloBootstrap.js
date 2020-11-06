@@ -41,7 +41,7 @@ function HelloBootstrap() {
                 Projects
               </a>
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a className="dropdown-item" href="#">
+                <a className="dropdown-item" href="">
                   Action
                 </a>
                 <a className="dropdown-item" href="#">
@@ -58,6 +58,9 @@ function HelloBootstrap() {
             </li>
           </ul>
         </div>
+        <a href="https://www.linkedin.com/in/larramie-shaw-6586171b6/">
+          LinkedIn
+        </a>
       </nav>
       <div className="jumbotron">
         <h1>Larramie "Doc" Shaw</h1>
@@ -65,19 +68,127 @@ function HelloBootstrap() {
       </div>
       <div className="card">
         <div className="card-header">
-          <h3 className="card-title">
-            Non eu sit duis adipisicing esse incididunt ad proident.
-          </h3>
+          <h3 className="card-title">About Me</h3>
         </div>
         <div className="card-body">
           <p className="card-text">
-            Aliquip dolore commodo nostrud minim. Cillum do enim non ullamco.
-            Commodo magna eu ex mollit sunt amet fugiat. In irure eu enim id ea
-            sit nostrud incididunt ad adipisicing.Aliquip dolore commodo nostrud
-            minim. Cillum do enim non ullamco. Commodo magna eu ex mollit sunt
-            amet fugiat. In irure eu enim id ea sit nostrud incididunt ad
-            adipisicing.
+            Hi, I'm Larramie born and raised in Atlanta, Georgia. Travel,
+            Sports, Reading, and Art are some of my hobbies. Always been
+            interested in coding finally decided to take a bootcamp.
           </p>
+        </div>
+      </div>
+      <br></br>
+      <div className="row">
+        <div className="col-sm-6">
+          <div className="card">
+            <div className="card-body">
+              <img
+                src="client/Screen Shot 2020-11-06 at 10.37.08 AM.png"
+                class="card-img-top"
+                alt="client/Screen Shot 2020-11-06 at 10.37.08 AM.png"
+              ></img>
+              <h5 className="card-title">What I'm Craving</h5>
+              <p className="card-text">
+                With supporting text below as a natural lead-in to additional
+                content.
+              </p>
+              <a
+                href="https://louielover.github.io/project-1/"
+                className="btn btn-primary"
+              >
+                What I'm Craving
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-sm-6">
+          <div className="card">
+            <div className="card-body">
+              <img
+                src="client/Screen Shot 2020-11-06 at 10.36.28 AM.png"
+                class="card-img-top"
+                alt="client/Screen Shot 2020-11-06 at 10.36.28 AM.png"
+              ></img>
+              <h5 className="card-title">Eat Some Burgers</h5>
+              <p className="card-text">
+                With supporting text below as a natural lead-in to additional
+                content.
+              </p>
+              <a
+                href="https://youbettereatsomeburgers.herokuapp.com/"
+                className="btn btn-primary"
+              >
+                Eat Some Burgers
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-sm-6">
+          <div className="card">
+            <div className="card-body">
+              <img
+                src="client/Screen Shot 2020-11-06 at 10.34.45 AM.png"
+                class="card-img-top"
+                alt="client/Screen Shot 2020-11-06 at 10.34.45 AM.png"
+              ></img>
+              <h5 className="card-title">Fitness Tracker</h5>
+              <p className="card-text">
+                With supporting text below as a natural lead-in to additional
+                content.
+              </p>
+              <a
+                href="https://murmuring-dusk-98089.herokuapp.com/?id=5fa21cd5909ee70017122d20"
+                className="btn btn-primary"
+              >
+                Fitness Tracker
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-sm-6">
+          <div className="card">
+            <div className="card-body">
+              <img
+                src="client/Screen Shot 2020-10-26 at 7.15.37 PM.png"
+                class="card-img-top"
+                alt="client/Screen Shot 2020-10-26 at 7.15.37 PM.png"
+              ></img>
+              <h5 className="card-title">Budget Tracker</h5>
+              <p className="card-text">
+                With supporting text below as a natural lead-in to additional
+                content.
+              </p>
+              <a
+                href="https://mighty-woodland-16812.herokuapp.com/"
+                className="btn btn-primary"
+              >
+                Budget Tracker
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-sm-6">
+          <div className="card">
+            <div className="card-body">
+              <img
+                src="client/Screen Shot 2020-11-06 at 10.59.54 AM.png"
+                class="card-img-top"
+                alt="client/Screen Shot 2020-11-06 at 10.59.54 AM.png"
+              ></img>
+              <h5 className="card-title">Note Taker</h5>
+              <p className="card-text">
+                With supporting text below as a natural lead-in to additional
+                content.
+              </p>
+              <a
+                href="https://note-taker10-2-2020.herokuapp.com/"
+                className="btn btn-primary"
+              >
+                Note Taker
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
