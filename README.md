@@ -18,7 +18,7 @@ A portfolio built with React to display homeworks/projects/and to contact me.
 
 Enter the name of your transaction as well as the price and select either to add or subtract from your budget. The App is also give the ability to keep track of your budget offline with the help of service-worker.js
 
-![Example Application]()
+![Example Application](https://raw.githubusercontent.com/LouieLover/ReactPortfolio/main/Screen%20Shot%202020-11-06%20at%207.12.36%20PM.png)
 
 
 ## Credits
