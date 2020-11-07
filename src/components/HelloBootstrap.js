@@ -83,7 +83,11 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img src="/5.png" className="card-img-top" alt="/5"></img>
+              <img
+                src={process.env.PUBLIC_URL + "/5.png"}
+                className="card-img-top"
+                alt="/5"
+              ></img>
               <h5 className="card-title">What I'm Craving</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -101,7 +105,11 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img src="/4.png" className="card-img-top" alt="/4.png"></img>
+              <img
+                src={process.env.PUBLIC_URL + "/4.png"}
+                className="card-img-top"
+                alt="/4.png"
+              ></img>
               <h5 className="card-title">Eat Some Burgers</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -119,7 +127,11 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img src="/3.png" className="card-img-top" alt="/3.png"></img>
+              <img
+                src={process.env.PUBLIC_URL + "/3.png"}
+                className="card-img-top"
+                alt="/3.png"
+              ></img>
               <h5 className="card-title">Fitness Tracker</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -137,7 +149,11 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img src="/2.png" className="card-img-top" alt="/2.png"></img>
+              <img
+                src={process.env.PUBLIC_URL + "/2.png"}
+                className="card-img-top"
+                alt="/2.png"
+              ></img>
               <h5 className="card-title">Budget Tracker</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
@@ -155,7 +171,11 @@ function HelloBootstrap() {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <img src="/one.png" className="card-img-top" alt="/one.png"></img>
+              <img
+                src={process.env.PUBLIC_URL + "/one.png"}
+                className="card-img-top"
+                alt="/one.png"
+              ></img>
               <h5 className="card-title">Note Taker</h5>
               <p className="card-text">
                 With supporting text below as a natural lead-in to additional
